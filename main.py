@@ -83,18 +83,3 @@ plt.title("Distribución de contratos por valor estimado")
 plt.tight_layout()
 plt.show()
 
-""" # Gráfico de dispersión
-
-jitter_x = np.random.normal(0, 0.2, size=len(df_ss))
-jitter_y = np.random.normal(0, 50, size=len(df_ss))
-
-plt.figure(figsize=(10,6))
-plt.scatter(df_ss["ve"]+jitter_y,df_ss.index + jitter_x, alpha=0.7, color="steelblue")
-plt.xlabel("Número de contrato")
-plt.ylabel("Valor estimado (€)")
-plt.title("Valor estimado de los contratos")
-
-plt.tight_layout()
-plt.show()
-
-#print(estadisticas.info()) """
