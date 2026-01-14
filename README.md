@@ -23,4 +23,4 @@ Análisis rápido sobre la contratación menor
 
 ## Gráfico
 
-![Distribución de contratos](grafico_valores.png)
+![Distribución de contratos](grafico_valores2.png)
